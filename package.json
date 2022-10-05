@@ -1,0 +1,12 @@
+{
+  "name": "pjn-nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS Unit Test",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thoyib Hidayat",
+  "license": "ISC"
+}
